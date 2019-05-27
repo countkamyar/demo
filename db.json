@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
+  "cars": [
+    { "car_model": "Benz", "speed": "300", "creation_date": "2018", "guarantee": "5" },
+    { "car_model": "BMW", "speed": "300", "creation_date": "2019", "guarantee": "4" },
+    { "car_model": "Audi", "speed": "250", "creation_date": "2017", "guarantee": "2" },
+    { "car_model": "Dena", "speed": "150", "creation_date": "2015", "guarantee": "2" },
+    { "car_model": "L-90", "speed": "140", "creation_date": "2009", "guarantee": "2" },
+    { "car_model": "Samand", "speed": "140", "creation_date": "2003", "guarantee": "1" },
+  ]
+
 }
